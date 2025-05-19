@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686273974184",
+    "project_id": "kittycat-f66bf",
+    "storage_bucket": "kittycat-f66bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686273974184:android:ad474d5f42b401959ed79d",
+        "android_client_info": {
+          "package_name": "com.servanius.incorporated"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnEarLN8NvPO9qHaiqyzdT9YVtbx7JoOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
